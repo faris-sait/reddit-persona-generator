@@ -1,0 +1,55 @@
+👤 USER INFO
+- Reddit Username: u/kojied
+- Age: Unknown
+- Occupation: iOS Developer
+- Status: Unknown
+- Location: New York City, USA (inferred from frequent mentions of NYC, and use of USD implicitly)
+- Tier: Power User
+- Archetype: The Analyst
+- Traits: Analytical, Tech-savvy, Curious, Opinionated, Knowledgeable (in various fields),  Reflective
+
+💡 MOTIVATIONS
+- Learning: 5/5
+- Expression: 3/5
+- Socializing: 2/5
+- Problem-solving: 4/5
+
+📈 BEHAVIOUR & HABITS
+- Posts and comments frequently on a wide range of subreddits, indicating broad interests.
+- Uses a thoughtful, often analytical tone in posts and comments.
+- Actively seeks information and shares his knowledge.
+- Participates in discussions, offering insights and opinions.
+- Shows interest in technology, particularly Apple products and spatial computing.
+-  Moderately active across multiple subreddits; posting frequency varies.
+
+😤 FRUSTRATIONS
+- Inconsistent referee calls in NBA games.
+- Perceived exploitation of H1B visa holders.
+- The perceived decline in the NFT market.
+- Lack of features in Apple Vision Pro for professional workflows.
+- Excessive advertising during sporting events.
+- Difficulty in managing resources in Manor Lords.
+
+
+🧠 PERSONALITY
+|       Axis       |   Tendency    |
+|------------------|---------------|
+| Introvert  — 🟢  |  Extrovert    |
+| Intuition  — 🟢  |  Sensing      |
+| Feeling    — 🟢  |  Thinking     |
+| Perceiving — 🟢  |  Judging      |
+
+🎯 GOALS & NEEDS
+- To learn about new technologies and trends.
+- To share his expertise and insights with others.
+- To find solutions to problems and challenges.
+- To understand the perspectives of others.
+- To contribute to discussions and debates.
+- To improve his workflow with new technologies.
+
+
+🔍 SOURCE HIGHLIGHTS
+*"Naturally I felt violated"* → Post
+*"I’m sure it’ll get resolved down the line (more of a software issue than hardware constraints), but curious to hear how realistic it is for people to port over their workflow to AVP, and what apps you’d like to see ASAP."* → Post
+*"I’m hoping people realize after this that it’s not a left or right issue, but rather those with wealth pitting those less fortunate against each other. Hopefully we can realize this before it’s too late and develop meaningful solutions"* → Comment
+

@@ -1,0 +1,55 @@
+---
+
+👤 USER INFO
+- Reddit Username: u/spez
+- Age: Unknown
+- Occupation: CEO of Reddit
+- Status: Unknown
+- Location: San Francisco, USA (Inferred)
+- Tier: Power User
+- Archetype: The Builder
+- Traits: Analytical, Tech-savvy,  Strategic,  Communicative,  Results-oriented,  Detail-oriented
+
+💡 MOTIVATIONS
+- Learning: 4/5
+- Expression: 3/5
+- Socializing: 2/5
+- Problem-solving: 5/5
+
+📈 BEHAVIOUR & HABITS
+- Primarily posts announcements and updates regarding Reddit's development and policy.
+- Tone is generally professional and informative, occasionally informal and humorous.
+- Frequent poster, especially during periods of significant change or updates.
+- Prefers subreddits related to Reddit's operations, moderation, and development (r/modnews, r/ModSupport, r/redditdev).  Also uses r/Snoo, r/all, r/wallstreetbets and others as a user.
+- Actively engages with user feedback and questions.
+
+😤 FRUSTRATIONS
+- Challenges related to Reddit's scalability and maintainability (old.reddit).
+- Difficulty of effectively moderating large communities and managing spam/abuse.
+- Balancing user privacy with regulatory requirements.
+- Inefficient search functionality.
+- Balancing human interaction with AI integration.
+
+🧠 PERSONALITY
+|       Axis       |   Tendency    |
+|------------------|---------------|
+| Introvert  — 🟢  |  Extrovert    |
+| Intuition  — 🟢  |  Sensing      |
+| Feeling    — 🟢  |  Thinking     |
+| Perceiving — 🟢  |  Judging      |
+
+🎯 GOALS & NEEDS
+- Improve Reddit's user experience and functionality.
+- Enhance moderation tools and processes.
+- Address spam and abuse effectively.
+- Improve Reddit's search capabilities.
+- Balance AI integration with human connection and authenticity.
+- Maintain Reddit's open and anonymous nature while complying with regulations.
+- Empower communities and make their knowledge accessible.
+
+🔍 SOURCE HIGHLIGHTS
+*"Reddit is unlike any other platform, and that’s by design."* → Post
+*"Reddit works because it’s human."* → Post
+*"Our goal is to make Reddit the best version of itself by being faster, better, and easier to use."* → Post
+
+---
