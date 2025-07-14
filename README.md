@@ -120,9 +120,9 @@ with open("kojied_persona.txt", "w") as f:
 ```
 ## EXAMPLE OUTPUT FILES
 Sample personas are stored in the personas/ folder. Example files include:
-kojied.txt
-Hungry-Move-6603.txt
-spez.txt
+kojied.txt,
+Hungry-Move-6603.txt,
+spez.txt,
 ## ⚠️ Important Notes
 
 - **Rate Limits**: Reddit API has rate limits. Avoid excessive requests
