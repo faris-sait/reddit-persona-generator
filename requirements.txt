@@ -1,0 +1,9 @@
+# Reddit User Persona Generator - Python Dependencies
+# This file lists all required Python packages for the Reddit User Persona Generator
+# Install using: pip install -r requirements.txt
+# PRAW (Python Reddit API Wrapper) - For Reddit API interactions
+praw
+# Google Generative AI - For persona generation using Gemini AI model
+google-generativeai
+# Python-dotenv - For loading environment variables from .env file
+python-dotenv
