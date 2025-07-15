@@ -2,12 +2,12 @@
 
 A Python application that scrapes Reddit user profiles and generates comprehensive user personas using AI analysis. This project analyzes users' posts and comments to create detailed psychological and behavioral profiles.
 
+## 💡 Bonus Concept
+Inspired by this project, I also conceptualized a business tool that scrapes customer reviews from e-commerce apps and provides clear sentiment insights using Gemini LLM.
+
 ## 🎯 Project Overview
 
 This tool takes Reddit profile URLs as input, scrapes the user's public posts and comments, and generates structured user personas that include demographics, motivations, behavioral patterns, personality traits, and cited sources.
-
-## 💡 Bonus Concept
-Inspired by this project, I also conceptualized a business tool that scrapes customer reviews from e-commerce apps and provides clear sentiment insights using Gemini LLM.
 
 ## 📋 Features
 
