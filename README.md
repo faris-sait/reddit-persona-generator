@@ -6,6 +6,9 @@ A Python application that scrapes Reddit user profiles and generates comprehensi
 
 This tool takes Reddit profile URLs as input, scrapes the user's public posts and comments, and generates structured user personas that include demographics, motivations, behavioral patterns, personality traits, and cited sources.
 
+## 💡 Bonus Concept
+Inspired by this project, I also conceptualized a business tool that scrapes customer reviews from e-commerce apps and provides clear sentiment insights using Gemini LLM.
+
 ## 📋 Features
 
 - **Reddit Data Scraping**: Extracts posts and comments from Reddit user profiles
@@ -123,8 +126,6 @@ Sample personas are stored in the personas/ folder. Example files include:
 kojied.txt,
 Hungry-Move-6603.txt,
 spez.txt
-## 💡 Bonus Concept
-Inspired by this project, I also conceptualized a business tool that scrapes customer reviews from e-commerce apps and provides clear sentiment insights using Gemini LLM.
 
 ## ⚠️ Important Notes
 
