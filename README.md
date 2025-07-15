@@ -123,6 +123,9 @@ Sample personas are stored in the personas/ folder. Example files include:
 kojied.txt,
 Hungry-Move-6603.txt,
 spez.txt
+## 💡 Bonus Concept
+Inspired by this project, I also conceptualized a business tool that scrapes customer reviews from e-commerce apps and provides clear sentiment insights using Gemini LLM.
+
 ## ⚠️ Important Notes
 
 - **Rate Limits**: Reddit API has rate limits. Avoid excessive requests
