@@ -167,5 +167,5 @@ This project fulfills all requirements from the BeyondChats internship assignmen
 
 ## 👤 Author
 Mohammed Faris Sait
-Created for BeyondChats AI/LLM Engineer Intern Assignment
+
 
